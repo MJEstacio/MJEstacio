@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MJEstacio
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript
+- 🌱 I’m currently learning HTML, CSS, SCSS, JavaScript, ReactJs, Tailwind CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
